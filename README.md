@@ -11,3 +11,4 @@ https://www.electronjs.org/docs/tutorial/quick-start
 
 https://github.com/node-ffi/node-ffi/issues/545
 
+https://github.com/electron-userland/electron-installer-windows   
